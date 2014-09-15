@@ -10,6 +10,7 @@ namespace Sueldo_Trabajador
     {
         static void Main(string[] args)
         {
+            MostrarMetodos.mMetodos();
         }
     }
 }

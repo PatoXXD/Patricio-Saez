@@ -41,6 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Captura.cs" />
+    <Compile Include="Consultas.cs" />
+    <Compile Include="MostrarMetodos.cs" />
+    <Compile Include="MostrarPlanilla.cs" />
+    <Compile Include="Operaciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
